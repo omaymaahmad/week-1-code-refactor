@@ -1,4 +1,13 @@
 # 01 HTML CSS Git: Code Refactor
+- changed the title of the website
+- removed duplicate CSS code
+- added nav and header elements 
+- updated the css to reference the nav instead of div
+- improved the order of the CSS 
+- added the alt attributes
+- screenshot of website included in Images folder
+- https://omaymaahmad.github.io/week-1-code-refactor/ 
+
 
 ## Your Task
 
